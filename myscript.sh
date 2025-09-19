@@ -6,3 +6,4 @@ cat /etc/os-release
 touch file11
 mkdir dir1
 date
+echo 'hero'
