@@ -4,7 +4,7 @@ lsb_release -a
 hostname -i
 cat /etc/os-release
 touch file11
-mkdir dir1 dir2
+mkdir dir1 dir2 dir3
 date
 echo 'hero'
 rm -rf dir2
